@@ -1,8 +1,8 @@
 CIC-IDS2017/
 MachineLearningCSV.zip
-*.pdf
+1*.pdf
 .venv
 *.csv
-.h5
+*.h5
 .keras
 *.pkl
