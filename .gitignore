@@ -3,3 +3,5 @@ MachineLearningCSV.zip
 *.pdf
 .venv
 *.csv
+.h5
+.keras
