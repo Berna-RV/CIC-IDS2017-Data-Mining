@@ -5,3 +5,4 @@ MachineLearningCSV.zip
 *.csv
 .h5
 .keras
+*.pkl
